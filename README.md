@@ -9,7 +9,8 @@ onnxruntime-win-x64-gpu表示windows x64系统使用cuda版本onnxruntime C++库
 onnxruntime-win-x64表示windows x64系统使用cpu版本onnxruntime C++库，不支持x86系统
 onnxruntime-linux-x64-gpu-cuda12表示linux x64系统使用gpu版本onnxruntime C++库，只支持cuda12版本，对应cuda版本需要查询
 onnxruntime-linux-x64-gpu表示linux x64系统使用gpu版本onnxruntime C++库，对应cuda版本需要查询
-onnxruntime-linux-x64表示linux x64系统使用cpu版本onnxruntime C++库，只支持cpu推理
+onnxruntime-linux-x64表示linux x64系统使用cpu版本onnxruntime C++库，只支持cpu推理<br>
+如果您只想要静态库版本，请打开onnxruntime_static_lib.md文件查看并下载<br>
 以下是汇总： <br>
 onnxruntime-1.23.2版本下载列表:
 <table>
