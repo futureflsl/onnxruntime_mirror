@@ -2,6 +2,7 @@
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>[C++onnxruntime静态库]onnxruntime-win-x64-static_lib-1.23.2</td><td><a href="https://mbd.pub/o/bread/YZWZl5ttag==">下载</a></td></tr
 <tr><td>[C++onnxruntime静态库]onnxruntime-win-x64-static_lib-1.23.1</td><td><a href="https://mbd.pub/o/bread/YZWZl5hvbA==">下载</a></td></tr>
 <tr><td>[C++onnxruntime静态库]onnxruntime-win-x64-static_lib-1.22.1</td><td><a href="https://mbd.pub/o/bread/YZWZl5hvaw==">下载</a></td></tr>
 <tr><td>[C++onnxruntime静态库]onnxruntime-win-x64-static_lib-1.22.0</td><td><a href="https://mbd.pub/o/bread/YZWZl5hvaQ==">下载</a></td></tr>
@@ -18,6 +19,8 @@
 <tr><td>[C++onnxruntime静态库]onnxruntime-win-x64-static_lib-1.16.2</td><td><a href="https://mbd.pub/o/bread/YZWZl5htaQ==">下载</a></td></tr>
 <tr><td>[C++onnxruntime静态库]onnxruntime-win-x64-static_lib-1.16.1</td><td><a href="https://mbd.pub/o/bread/YZWZl5htaA==">下载</a></td></tr>
 <tr><td>[C++onnxruntime静态库]onnxruntime-win-x64-static_lib-1.16.0</td><td><a href="https://mbd.pub/o/bread/YZWZl5htZQ==">下载</a></td></tr>
+
+<tr><td>[C++onnxruntime静态库]onnxruntime-win-x86-static_lib-1.23.2</td><td><a href="https://mbd.pub/o/bread/YZWZl5ttaQ==">下载</a></td></tr>
 <tr><td>[C++onnxruntime静态库]onnxruntime-win-x86-static_lib-1.23.1</td><td><a href="https://mbd.pub/o/bread/YZWZl5hvbQ==">下载</a></td></tr>
 <tr><td>[C++onnxruntime静态库]onnxruntime-win-x86-static_lib-1.22.1</td><td><a href="https://mbd.pub/o/bread/YZWZl5hvag==">下载</a></td></tr>
 <tr><td>[C++onnxruntime静态库]onnxruntime-win-x86-static_lib-1.22.0</td><td><a href="https://mbd.pub/o/bread/YZWZl5hvaA==">下载</a></td></tr>
